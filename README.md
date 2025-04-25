@@ -6,7 +6,7 @@
 
 ## 📸 Preview
 
-![Doctor Finder Screenshot](https://ibb.co/35GFdNFV)
+![Doctor Finder Screenshot](https://i.ibb.co/5Xtj48jC/Screenshot-72.png)
 
 ---
 
